@@ -1,8 +1,8 @@
 ---
 galaxy_info:
-  author: Johan Guldmyr
+  author: Tom Zurita
   description: Installs Dell yum repo and related softwares for managing a Dell server 
-  company: CSC - IT Center for Science Ltd.
+  company: SI - Smithsonian Institute
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
   # issue_tracker_url: http://example.com/issue/tracker
@@ -27,6 +27,7 @@ galaxy_info:
   #  - 5
   #  - 6
     - 7
+    - 8
   #- name: GenericUNIX
   #  versions:
   #  - all

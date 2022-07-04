@@ -41,5 +41,4 @@ MIT
 
 Author Information
 ------------------
-
-Johan Guldmyr
+Tom Zurita
